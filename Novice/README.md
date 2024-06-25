@@ -9,6 +9,6 @@
 
  All three solutions can be found in python, c, c++ & java below:
   - [Python solutions](Novice/Fib.py)
-  - [C solutions](Novice\Fib.c)
-  - [C++ solutions](Novice\Fib.cpp)
-  - [Java solutions](Novice\Fib.java)
+  - [C solutions](Novice/Fib.c)
+  - [C++ solutions](Novice/Fib.cpp)
+  - [Java solutions](Novice/Fib.java)
