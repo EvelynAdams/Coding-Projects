@@ -1,5 +1,24 @@
 # Novice Coding Projects
 
+### Tic Tac Toe
+We all know the beloved childhood game of tic tac toe! Now, lets being this game to life from you computer.
+
+Print the classic nine space board and ask the user to choose a space. Mark their selection then do the same for the other player. Continue until someone wins or a tie occurs. Then declare the winner, or lack of, to the user.
+
+<details>
+  <summary>Workflow Clue</summary>
+    1. Display Board
+    2. Play Game
+    3. handle turn
+    4. check win
+    5. check tie
+    6. switch player
+</details>
+
+
+All implementations can be found below:
+ - [Python](TicTacToe.py)
+
 # Novice Coding Problems
 
  ### Fibonacci Sequence
@@ -16,4 +35,3 @@
   - [Java solutions](Fib.java)
 
 # Novice Coding Torutoruials
-
