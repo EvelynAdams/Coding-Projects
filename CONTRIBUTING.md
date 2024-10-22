@@ -44,13 +44,13 @@ Always work on an up to date branch! Never work directly on main!
 | --- | --- | --- |
 | exisitng tourtourial link | A really cool deacription | C, C++, Java, Python, < your solution language > |
 | ...  | ... | ... |
-| [tourtourial Name](https://github.com/EvelynAdams/Coding-Projects/blob/main/<level>/README.md#<Tourtourial-Name>) | < Short Concise description >| < language(s) of your tourtourial > |
+| [tourtourial Name](https://github.com/EvelynAdams/Coding-Projects/blob/main/<level>/README.md#<Tourtourial-Name>) | < Short Concise description >| < language(s) in the tourtourial > |
 
 ```
 ### Level README.md Formatting
 - Always add to the end of the list
-- All solutions of one language *must* be in a single file; so make sure you have the most up to date version before beginning you solution to prevent conflicts. 
-
+- All solutions of one language *must* be in a single file; so make sure you have the most up to date version before beginning you solution to prevent conflicts.
+- All files for a solution should have the same name (eg solution1.<file extension>)
 ```
 # <Level> Coding Projects
 .
